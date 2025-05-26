@@ -51,7 +51,7 @@
     "@nestjs/platform-express": "10.3.5",
     "@nestjs/schedule": "3.0.3",
     "@nestjs/typeorm": "10.0.0",
-    "@terradharitri/sdk-core": "0.1.4",
+    "@terradharitri/sdk-core": "0.1.8",
     "@terradharitri/sdk-native-auth-server": "0.0.4",
     "@terradharitri/sdk-nestjs-cache": "0.0.12",
     "@terradharitri/sdk-nestjs-common": "0.0.12",
