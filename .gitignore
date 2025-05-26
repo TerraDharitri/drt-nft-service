@@ -394,10 +394,10 @@ Temporary Items
 
 =======
 # Local
-.env
 dist
 build.yaml
 
 # PEM file(s)
 *.pem
 /src/plugins
+config.bat
